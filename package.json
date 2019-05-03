@@ -1,0 +1,22 @@
+{
+  "name": "@suncin/dotenv",
+  "version": "1.0.0",
+  "description": "Load enviromental variables from .env",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
+  "keywords": [
+    "dotenv"
+  ],
+  "author": "Jaime Leonardo Suncin Cruz <jaime@suncin.me>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dotenv-expand": "^5.1.0",
+    "dotenv-safe": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}

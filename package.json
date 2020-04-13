@@ -14,7 +14,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "dotenv-expand": "^5.1.0",
-    "dotenv-safe": "^6.1.0"
+    "dotenv-safe": "^8.2.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0"
